@@ -1,11 +1,11 @@
-cask "mousecape" do
-  version "1813"
-  sha256 "969ec7146af527e8900945950e9945f2b15c4eb19ff835f86da6332ec522ffd2"
+cask "darkboot" do
+  version "4.0.5"
+  sha256 "893b752177eac69e620a4ec660cee165f90ac780807c9d0c784d9a4bfce475eb"
 
-  url "https://github.com/alexzielenski/Mousecape/releases/download/#{version}/Mousecape_#{version}.zip"
-  name "mousecape"
-  desc "the app"
-  homepage "putty.de"
+  url "https://github.com/w0lfschild/DarkBoot/releases/download/v#{version}/DarkBoot_#{version}.zip"
+  name "darkboot"
+  desc "Darkboot"
+  homepage "https://www.macenhance.com/bootbuddy.html"
 
-  app "Mousecape.app"
+  app "/Dark Boot.app"
 end
