@@ -7,5 +7,5 @@ cask "darkboot" do
   desc "Darkboot"
   homepage "https://www.macenhance.com/bootbuddy.html"
 
-  app "/Dark Boot.app"
+  app "Dark Boot.app"
 end
