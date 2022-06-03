@@ -1,6 +1,6 @@
 cask "darkboot" do
   version "7.0.1"
-  sha256 "893b752177eac69e620a4ec660cee165f90ac780807c9d0c784d9a4bfce475eb"
+  sha256 "7c3b6bae532ffad57c35d93385153f5865bc801fafecce1bb2aa05c210b2a7ca"
 
   url "https://github.com/w0lfschild/app_updates/raw/master/DarkBoot/DarkBoot_#{version}.zip"
   name "darkboot"
